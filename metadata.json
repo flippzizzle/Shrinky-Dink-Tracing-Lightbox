@@ -1,0 +1,6 @@
+{
+  "name": "ShrinkyTracer - Lightbox & Screen Lock Tracer",
+  "description": "Upload photos, position, mirror, and lock your screen with high brightness to easily trace Shrinky Dinks, keychains, and craft art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
